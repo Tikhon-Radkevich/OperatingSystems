@@ -1,0 +1,15 @@
+[submodule "ProcessesCreating_01"]
+	path = ProcessesCreating_01
+	url = https://github.com/Tikhon-Radkevich/Laba_01_cpp
+[submodule "ThreadsCreating_02"]
+	path = ThreadsCreating_02
+	url = https://github.com/Tikhon-Radkevich/Laba_02_cpp
+[submodule "ThreadsSynchronizing_03"]
+	path = ThreadsSynchronizing_03
+	url = https://github.com/Tikhon-Radkevich/Laba_03_cpp
+[submodule "ProcessSynchronization_04"]
+	path = ProcessSynchronization_04
+	url = https://github.com/Tikhon-Radkevich/Laba_04_cpp
+[submodule "Communication_via_Named_Pipes_05"]
+	path = Communication_via_Named_Pipes_05
+	url = https://github.com/Tikhon-Radkevich/Laba_05_cpp
